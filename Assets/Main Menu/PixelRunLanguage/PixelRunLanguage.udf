@@ -1,0 +1,40 @@
+<UserData Version="2.3.2.3">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="False" />
+        <LastRunType Value="Android" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.PixelRunLanguage" />
+        <AndroidkeyStore Value="K:\Unity Projeleri\Build Android\user.keystore" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="PixelRunLanguage iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="Android" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="" />
+        <IsDebugKeystore Value="False" />
+        <KeystorePassword Value="123456789" />
+        <KeystoreAliasName Value="key" />
+        <KeystoreAliasPassword Value="123456789" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="Layer.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="Layer.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

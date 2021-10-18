@@ -1,0 +1,6 @@
+lastUpgrade=00921
+proj.AppId=772846475362
+web.ClientId=
+android.SetupDone=true
+App.NearbdServiceId=com.baseryazilimdestek.pixelrun
+android.NearbySetupDone=true

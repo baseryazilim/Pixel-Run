@@ -1,0 +1,47 @@
+<Solution>
+  <PropertyGroup Name="PixelRunLanguage" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Common">
+          <Image Name="Cn01.png" />
+          <Image Name="Cn02.png" />
+          <Image Name="Cn03.png" />
+          <Image Name="Cn04.png" />
+          <Image Name="Cn05.png" />
+          <Image Name="Cn06.png" />
+          <Image Name="Cn07.png" />
+          <Image Name="Cn08.png" />
+          <Image Name="Cn09.png" />
+          <Image Name="Cn10.png" />
+          <Image Name="Cn11.png" />
+          <Image Name="Cn12.png" />
+          <Image Name="Cn14.png" />
+          <Image Name="Cn15.png" />
+          <Image Name="Cn16.png" />
+          <Image Name="Cn17.png" />
+          <Image Name="Cn19.png" />
+          <Image Name="Cn20.png" />
+          <Image Name="Cn21.png" />
+        </Folder>
+        <Folder Name="DifficultySelection">
+          <Image Name="DS01.png" />
+          <Image Name="DS02.png" />
+          <Image Name="DS03.png" />
+          <Image Name="DS05.png" />
+          <Image Name="DS07.png" />
+          <Image Name="DS08.png" />
+          <Image Name="DS09.png" />
+          <Image Name="DS10.png" />
+          <Image Name="DS11.png" />
+          <Image Name="DS12.png" />
+          <Image Name="DS13.png" />
+          <Image Name="DS15.png" />
+          <Image Name="DS16.png" />
+        </Folder>
+        <Project Name="Layer.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

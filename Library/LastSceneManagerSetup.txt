@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scene/T\xFCrk\xE7e/Oyun.unity"
+  isLoaded: 1
+  isActive: 1

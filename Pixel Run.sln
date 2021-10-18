@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixel Run", "Assembly-CSharp.csproj", "{34444E33-105E-7D06-D1D0-2F5AABE9F965}"
+EndProject
+Project("{A1FE52B1-D80B-0F1E-2C85-481AD6D7C348}") = "Pixel Run", "Assembly-UnityScript.unityproj", "{E82FE668-9D6E-0AE2-748F-9DFE06EEA6D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34444E33-105E-7D06-D1D0-2F5AABE9F965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34444E33-105E-7D06-D1D0-2F5AABE9F965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34444E33-105E-7D06-D1D0-2F5AABE9F965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34444E33-105E-7D06-D1D0-2F5AABE9F965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82FE668-9D6E-0AE2-748F-9DFE06EEA6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82FE668-9D6E-0AE2-748F-9DFE06EEA6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82FE668-9D6E-0AE2-748F-9DFE06EEA6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82FE668-9D6E-0AE2-748F-9DFE06EEA6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																													GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal
